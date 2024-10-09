@@ -1,4 +1,4 @@
-# Solving and PLotting Activation Functions
+# Solving and Plotting Activation Functions
 
 1. ReLU
 2. Sigmoid
